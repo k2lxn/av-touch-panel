@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.icon {
+	.outline {
+		stroke: #000;
+	}
+
+	.shape {
+		fill: #000;
+		stroke: #000;
+	}
+}
+
+h2 {
+	font-family: sans-serif;
+	margin-bottom: 15px;
+}
+
+ul {
+	list-style-type: none;
+
+	li {
+		background: #eee;
+		padding: 15px;
+		margin-left: 10px;
+		display: inline-flex;
+		flex-direction: column;
+		justify-content: space-between;
+		vertical-align: top;
+		text-align: center;
+
+		width: 200px;
+		height: 200px;
+
+
+		svg {
+			width: 50%;
+			display: block;
+			margin: 0 auto;
+			vertical-align: center;
+		}
+	}
+}

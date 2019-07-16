@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="47.533581mm"
+   height="17.386581mm"
+   viewBox="0 0 168.42607 61.605997"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="usb-c.svg">
+  <defs
+     id="defs5638" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-0.78622122"
+     inkscape:cy="-17.46569"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="806"
+     inkscape:window-x="11"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="outline"
+     transform="translate(-202.71362,-574.50882)">
+    <g>
+      <path
+         sodipodi:nodetypes="zsszssz"
+         inkscape:connector-curvature="0"
+         d="m 366.1397,605.87475 c 0,13.12777 -11.76023,25.24007 -27.77138,25.24007 l -101.38323,0 c -15.77223,0 -29.27148,-9.85232 -29.27147,-25.24007 1e-5,-15.38775 12.31807,-26.36593 29.27147,-26.36593 l 101.38323,0 c 17.51447,0 27.77138,13.23816 27.77138,26.36593 z"
+         style="opacity:0.88999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         d="m 238.21428,604.86221 96.42858,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata7510">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

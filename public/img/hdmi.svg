@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57.648487mm"
+   height="24.393616mm"
+   viewBox="0 0 204.26629 86.434071"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hdmi.svg">
+  <defs
+     id="defs4265" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="13.303284"
+     inkscape:cy="-0.057195156"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="806"
+     inkscape:window-x="103"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="outline"
+     transform="translate(-515.53286,-700.68275)">
+    <g
+       transform="matrix(2.5785064,0,0,2.9081456,-1169.7991,-1676.4777)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         d="m 656.34668,820.15338 73.74113,0 0,16.52095 c -7.09826,1.37264 -8.15924,4.7577 -10.48039,7.72271 l -52.78047,0 c -2.65374,-3.827 -5.81779,-6.88852 -10.48027,-7.7024 z"
+         style="opacity:0.88999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.47771072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="outline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         d="m 669.07949,830.75999 48.02285,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.47771072;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="outline" />
+    </g>
+  </g>
+  <metadata
+     id="metadata7512">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
